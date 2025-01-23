@@ -1,0 +1,42 @@
+[
+    {
+      "_id": "3fadc18fed4990a8e82c0e54",
+      "name": "kim",
+      "lastName": "o'hara",
+      "email": "kim.o'hara@coder.com",
+      "password": "hola1234",
+      "age": 21,
+      "avatar": "https://avatars.githubusercontent.com/u/6700322",
+      "role": "admin"
+    },
+    {
+      "_id": "6c875f3df2a2c2b6ccbef500",
+      "name": "julia",
+      "lastName": "farrell",
+      "email": "julia.farrell@coder.com",
+      "password": "hola1234",
+      "age": 19,
+      "avatar": "https://avatars.githubusercontent.com/u/49743241",
+      "role": "admin"
+    },
+    {
+      "_id": "806ad5a0c9a6f4c7bab4cffd",
+      "name": "david",
+      "lastName": "kling",
+      "email": "david.kling@coder.com",
+      "password": "hola1234",
+      "age": 24,
+      "avatar": "https://avatars.githubusercontent.com/u/31614481",
+      "role": "premium"
+    },
+    {
+      "_id": "ade710ebde3f0efbabc2c690",
+      "name": "miss",
+      "lastName": "ana",
+      "email": "miss.ana.schmeler@coder.com",
+      "password": "hola1234",
+      "age": 65,
+      "avatar": "https://avatars.githubusercontent.com/u/66082047",
+      "role": "admin"
+    }
+  ]
