@@ -1,0 +1,87 @@
+[
+    {
+      "_id": "45b4277cdfbcb66f57efdf3b",
+      "title": "Refined Bronze Ball",
+      "price": "295.40",
+      "stock": 184,
+      "photo": "https://loremflickr.com/505/2692?lock=2078350250868692",
+      "category": "ninguna"
+    },
+    {
+      "_id": "de186b48acc48d06f4ec3fc7",
+      "title": "Handmade Frozen Sausages",
+      "price": "288.29",
+      "stock": 960,
+      "photo": "https://loremflickr.com/2447/1402?lock=1030543533243523",
+      "category": "ninguna"
+    },
+    {
+      "_id": "abf515e6eea57ee075fc16ec",
+      "title": "Practical Wooden Bike",
+      "price": "376.09",
+      "stock": 792,
+      "photo": "https://picsum.photos/seed/jaYpoHYyI/1486/1102",
+      "category": "accesorios"
+    },
+    {
+      "_id": "0c2ff3efa2f06a8199357e8e",
+      "title": "Gorgeous Bronze Chicken",
+      "price": "456.09",
+      "stock": 872,
+      "photo": "https://loremflickr.com/3762/3263?lock=7508797294104574",
+      "category": "computadoras"
+    },
+    {
+      "_id": "bfbcddbcfad7691bf15ace5e",
+      "title": "Bespoke Plastic Soap",
+      "price": "140.35",
+      "stock": 139,
+      "photo": "https://loremflickr.com/2948/588?lock=2797744193412945",
+      "category": "ninguna"
+    },
+    {
+      "_id": "d26beef3b678ac5ffd7520d5",
+      "title": "Elegant Cotton Towels",
+      "price": "464.49",
+      "stock": 129,
+      "photo": "https://loremflickr.com/3304/2213?lock=8275359285921115",
+      "category": "accesorios"
+    },
+    {
+      "_id": "032fafa6bacabde2afae74cf",
+      "title": "Incredible Wooden Sausages",
+      "price": "434.65",
+      "stock": 262,
+      "photo": "https://picsum.photos/seed/xJoH1Wa6/2157/1947",
+      "category": "computadoras"
+    },
+    {
+      "_id": "76ccb544efab1e99bbec6e38",
+      "title": "Modern Wooden Table",
+      "price": "77.99",
+      "stock": 874,
+      "photo": "https://loremflickr.com/1132/2124?lock=6845368567384608",
+      "category": "accesorios"
+    },
+    {
+      "_id": "d0f1f8fc59d4c864ba21a2e7",
+      "title": "mouse",
+      "stock": 1000,
+      "price": 5,
+      "category": "accesorios",
+      "photo": "https://loremflickr.com/1132/2124?lock=6845368567384608"
+    },
+    {
+      "_id": "6a6f5d33d0afcaa6ade66b6f",
+      "title": "computadora dell",
+      "category": "computadoras",
+      "price": "1200",
+      "stock": 10
+    },
+    {
+      "_id": "61ece3afa5adc8f5defc6eda",
+      "title": "computadora dell",
+      "category": "computadoras",
+      "price": "1200"
+    }
+  ]
