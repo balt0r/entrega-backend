@@ -8,6 +8,7 @@ class ProductsManager {
     this.path = path;
     this.init();
   }
+
   async init() {
     try {
       await fs.access(this.path);
@@ -15,6 +16,7 @@ class ProductsManager {
       await fs.writeFile(this.path, JSON.stringify([]));
     }
   }
+
   async readFile() {
     try {
       let data = await fs.readFile(this.path);
@@ -24,6 +26,7 @@ class ProductsManager {
       throw error;
     }
   }
+
   async writeFile(data) {
     try {
       data = JSON.stringify(data, null, 2);
@@ -32,6 +35,8 @@ class ProductsManager {
       throw error;
     }
   }
+
+  // Crear un solo producto (ya existente)
   async createMock() {
     try {
       const _id = faker.database.mongodbObjectId();
@@ -53,19 +58,56 @@ class ProductsManager {
         photo,
         category,
       };
-      //una vez construido el producto
-      //se lee el archivo
       const dataOfFile = await this.readFile();
-      //se pushea el nuevo producto
       dataOfFile.push(newProduct);
-      //se sobre escribe el archivo con la nueva data
       await this.writeFile(dataOfFile);
-      //retorno el nuevo producto al cliente
       return newProduct;
     } catch (error) {
       throw error;
     }
   }
+
+  // Crear varios productos (nuevo método)
+  async createMultipleMock(numProducts) {
+    try {
+      const products = [];
+      for (let i = 0; i < numProducts; i++) {
+        const _id = faker.database.mongodbObjectId();
+        const title = faker.commerce.productName();
+        const price = faker.commerce.price({ min: 10, max: 500, dec: 2 });
+        const stock = faker.number.int({ min: 0, max: 1000 });
+        const photo = faker.image.url();
+        const category = faker.helpers.arrayElement([
+          "ninguna",
+          "celulares",
+          "computadoras",
+          "accesorios",
+        ]);
+        
+        const newProduct = {
+          _id,
+          title,
+          price,
+          stock,
+          photo,
+          category,
+        };
+
+        products.push(newProduct);
+      }
+
+      // Obtener los datos actuales del archivo y agregar los nuevos productos
+      const dataOfFile = await this.readFile();
+      dataOfFile.push(...products);
+
+      // Guardar los productos en el archivo JSON
+      await this.writeFile(dataOfFile);
+      return products;  // Retornar los productos generados
+    } catch (error) {
+      throw error;
+    }
+  }
+
   async create(data) {
     try {
       const _id = faker.database.mongodbObjectId();
@@ -73,19 +115,15 @@ class ProductsManager {
         _id,
         ...data,
       };
-      //una vez construido el producto
-      //se lee el archivo
       const dataOfFile = await this.readFile();
-      //se pushea el nuevo producto
       dataOfFile.push(newProduct);
-      //se sobre escribe el archivo con la nueva data
       await this.writeFile(dataOfFile);
-      //retorno el nuevo producto al cliente
       return newProduct;
     } catch (error) {
       throw error;
     }
   }
+
   async readAll(category) {
     try {
       let all = await this.readFile();
@@ -97,6 +135,7 @@ class ProductsManager {
       throw error;
     }
   }
+
   async readOne(id) {
     try {
       const all = await this.readFile();
@@ -106,6 +145,7 @@ class ProductsManager {
       throw error;
     }
   }
+
   async updateOne(id, newData) {
     try {
       const all = await this.readFile();
@@ -122,6 +162,7 @@ class ProductsManager {
       throw error;
     }
   }
+
   async destroyOne(id) {
     try {
       const all = await this.readFile();
@@ -141,4 +182,12 @@ class ProductsManager {
 }
 
 const productsManager = new ProductsManager();
+
+// Generar 40 productos
+productsManager.createMultipleMock(40).then((newProducts) => {
+  console.log(`${newProducts.length} productos generados`);
+}).catch((error) => {
+  console.error("Error al generar productos:", error);
+});
+
 export default productsManager;
