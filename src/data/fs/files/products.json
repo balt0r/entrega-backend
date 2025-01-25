@@ -1683,5 +1683,965 @@
     "stock": 307,
     "photo": "https://picsum.photos/seed/L2CMbSY3/533/1909",
     "category": "computadoras"
+  },
+  {
+    "_id": "4bdb9dbb5a37d74fbe533e73",
+    "title": "Electronic Steel Bike",
+    "price": "131.30",
+    "stock": 234,
+    "photo": "https://picsum.photos/seed/F2UGpYLQ/965/3278",
+    "category": "computadoras"
+  },
+  {
+    "_id": "de1297f4792cdbc1cd31a7fe",
+    "title": "Recycled Ceramic Computer",
+    "price": "253.39",
+    "stock": 664,
+    "photo": "https://loremflickr.com/2293/2011?lock=8026435314508293",
+    "category": "accesorios"
+  },
+  {
+    "_id": "dd7ee41cf8fa4d0eaca7abd8",
+    "title": "Recycled Concrete Pizza",
+    "price": "218.69",
+    "stock": 932,
+    "photo": "https://loremflickr.com/942/2303?lock=2242178263763013",
+    "category": "celulares"
+  },
+  {
+    "_id": "cb0056fa12ede7c894cb7023",
+    "title": "Fantastic Rubber Sausages",
+    "price": "252.89",
+    "stock": 204,
+    "photo": "https://picsum.photos/seed/Usosrbnn9w/3630/165",
+    "category": "accesorios"
+  },
+  {
+    "_id": "bdcca9e8af59ba38b9eace64",
+    "title": "Handmade Bronze Cheese",
+    "price": "79.05",
+    "stock": 294,
+    "photo": "https://picsum.photos/seed/5MTiH5/3901/1015",
+    "category": "ninguna"
+  },
+  {
+    "_id": "3be79becaa0ae2160d4b0120",
+    "title": "Incredible Bronze Pants",
+    "price": "182.05",
+    "stock": 709,
+    "photo": "https://picsum.photos/seed/vvUWQe/2038/555",
+    "category": "celulares"
+  },
+  {
+    "_id": "4b8e91ff8a1fce7ae30fd35f",
+    "title": "Ergonomic Plastic Shoes",
+    "price": "222.23",
+    "stock": 371,
+    "photo": "https://loremflickr.com/332/1729?lock=6686462084530625",
+    "category": "accesorios"
+  },
+  {
+    "_id": "4ead0f1d540454bea7d6eed2",
+    "title": "Licensed Cotton Fish",
+    "price": "264.59",
+    "stock": 963,
+    "photo": "https://loremflickr.com/1564/2163?lock=1484353247494149",
+    "category": "computadoras"
+  },
+  {
+    "_id": "de2057b9e53e8597db865f37",
+    "title": "Refined Metal Towels",
+    "price": "331.29",
+    "stock": 624,
+    "photo": "https://loremflickr.com/3941/74?lock=4367133071689226",
+    "category": "accesorios"
+  },
+  {
+    "_id": "bb292eaa88aaf46ffa38ee4b",
+    "title": "Licensed Silk Gloves",
+    "price": "451.28",
+    "stock": 95,
+    "photo": "https://picsum.photos/seed/fXQnvwaj/257/954",
+    "category": "computadoras"
+  },
+  {
+    "_id": "daf35fe523c2fe58f94e39ee",
+    "title": "Bespoke Plastic Shirt",
+    "price": "116.85",
+    "stock": 644,
+    "photo": "https://picsum.photos/seed/02L8fDsD4/2731/1765",
+    "category": "computadoras"
+  },
+  {
+    "_id": "ffa8c3dfac3abe713d9e141d",
+    "title": "Rustic Concrete Soap",
+    "price": "252.30",
+    "stock": 968,
+    "photo": "https://picsum.photos/seed/oqVhIPc/1049/1859",
+    "category": "celulares"
+  },
+  {
+    "_id": "6f0aeb5cfe16eb93f2aedf8d",
+    "title": "Generic Aluminum Bacon",
+    "price": "54.89",
+    "stock": 484,
+    "photo": "https://loremflickr.com/923/1547?lock=8035215399110096",
+    "category": "ninguna"
+  },
+  {
+    "_id": "56352c4acbfbee130aedf50d",
+    "title": "Frozen Gold Bike",
+    "price": "384.05",
+    "stock": 665,
+    "photo": "https://picsum.photos/seed/INFW1iQ/1359/3626",
+    "category": "ninguna"
+  },
+  {
+    "_id": "1def13ea7cbf757cf01ddcfe",
+    "title": "Recycled Concrete Hat",
+    "price": "82.69",
+    "stock": 356,
+    "photo": "https://picsum.photos/seed/qCRJz/3156/385",
+    "category": "ninguna"
+  },
+  {
+    "_id": "046d7e2a8bd4a6e5cef9953b",
+    "title": "Ergonomic Concrete Bike",
+    "price": "86.69",
+    "stock": 432,
+    "photo": "https://loremflickr.com/2321/3693?lock=1458593649987293",
+    "category": "accesorios"
+  },
+  {
+    "_id": "baede8a03ba226c2b7b14d34",
+    "title": "Fresh Steel Chair",
+    "price": "276.15",
+    "stock": 287,
+    "photo": "https://picsum.photos/seed/KrJLPWo/1668/3985",
+    "category": "celulares"
+  },
+  {
+    "_id": "aef3cdabfea4d87caff3ade6",
+    "title": "Gorgeous Concrete Pants",
+    "price": "454.49",
+    "stock": 288,
+    "photo": "https://loremflickr.com/3088/2861?lock=7842382217002172",
+    "category": "celulares"
+  },
+  {
+    "_id": "42cbf408e5f5acd307da3438",
+    "title": "Recycled Wooden Tuna",
+    "price": "319.89",
+    "stock": 510,
+    "photo": "https://loremflickr.com/1770/756?lock=8080569833877618",
+    "category": "ninguna"
+  },
+  {
+    "_id": "ffcf75204bda3aedac8cbb5a",
+    "title": "Incredible Marble Bike",
+    "price": "248.59",
+    "stock": 285,
+    "photo": "https://loremflickr.com/334/1328?lock=5603543333025714",
+    "category": "celulares"
+  },
+  {
+    "_id": "da0fb597faccb7aab5e61fde",
+    "title": "Elegant Aluminum Salad",
+    "price": "78.39",
+    "stock": 675,
+    "photo": "https://picsum.photos/seed/dqUXIK/3838/3817",
+    "category": "computadoras"
+  },
+  {
+    "_id": "1d657786d9a8bac3fd535cf7",
+    "title": "Recycled Concrete Mouse",
+    "price": "494.27",
+    "stock": 818,
+    "photo": "https://picsum.photos/seed/KT4HMPsTlY/3934/255",
+    "category": "celulares"
+  },
+  {
+    "_id": "9e925e0c2dca4adba3af70bb",
+    "title": "Tasty Steel Pizza",
+    "price": "306.85",
+    "stock": 757,
+    "photo": "https://picsum.photos/seed/21n1ufVs/455/856",
+    "category": "computadoras"
+  },
+  {
+    "_id": "8a8081aaa3c8ea4dbf6ebabc",
+    "title": "Practical Wooden Bike",
+    "price": "358.65",
+    "stock": 819,
+    "photo": "https://loremflickr.com/706/3653?lock=6491151149171713",
+    "category": "ninguna"
+  },
+  {
+    "_id": "fced257016b7c77c7a60fcff",
+    "title": "Practical Gold Tuna",
+    "price": "437.99",
+    "stock": 59,
+    "photo": "https://picsum.photos/seed/jYENVixc/2140/3052",
+    "category": "computadoras"
+  },
+  {
+    "_id": "1aaa0cd4f6d8d0cbbd8add7c",
+    "title": "Modern Metal Gloves",
+    "price": "164.69",
+    "stock": 193,
+    "photo": "https://loremflickr.com/2405/3709?lock=2548110562883954",
+    "category": "ninguna"
+  },
+  {
+    "_id": "a4d7e96ba9fc74c51aeaebd3",
+    "title": "Fantastic Ceramic Pizza",
+    "price": "332.49",
+    "stock": 813,
+    "photo": "https://picsum.photos/seed/Dix8S/1552/2515",
+    "category": "celulares"
+  },
+  {
+    "_id": "ad5bcb3904c3d30891cdfdec",
+    "title": "Bespoke Metal Bacon",
+    "price": "285.79",
+    "stock": 959,
+    "photo": "https://loremflickr.com/770/3605?lock=3059344019358720",
+    "category": "computadoras"
+  },
+  {
+    "_id": "fbba9732dd9da8beff899db7",
+    "title": "Ergonomic Silk Chicken",
+    "price": "288.29",
+    "stock": 787,
+    "photo": "https://loremflickr.com/3291/3829?lock=5008818785087535",
+    "category": "accesorios"
+  },
+  {
+    "_id": "6bedddbc4bdea4aedbb7cc44",
+    "title": "Handcrafted Bamboo Chair",
+    "price": "132.79",
+    "stock": 200,
+    "photo": "https://loremflickr.com/306/3409?lock=7753933996307550",
+    "category": "ninguna"
+  },
+  {
+    "_id": "ce4e8d447bffee5effbebe1a",
+    "title": "Fantastic Concrete Shirt",
+    "price": "418.95",
+    "stock": 642,
+    "photo": "https://picsum.photos/seed/6XnKOtf2/2052/443",
+    "category": "celulares"
+  },
+  {
+    "_id": "94d724015fb6ac973d5d28fc",
+    "title": "Small Cotton Hat",
+    "price": "49.29",
+    "stock": 225,
+    "photo": "https://loremflickr.com/1093/2959?lock=1577213197272492",
+    "category": "accesorios"
+  },
+  {
+    "_id": "a505f7abaef1525c92c9802e",
+    "title": "Soft Aluminum Fish",
+    "price": "473.67",
+    "stock": 365,
+    "photo": "https://loremflickr.com/715/667?lock=7763928749961209",
+    "category": "accesorios"
+  },
+  {
+    "_id": "38a519abe4c47fcdc59bb029",
+    "title": "Unbranded Cotton Hat",
+    "price": "219.29",
+    "stock": 667,
+    "photo": "https://loremflickr.com/3166/3541?lock=8753719892882414",
+    "category": "celulares"
+  },
+  {
+    "_id": "98dab1d91e25e76ab8d6debe",
+    "title": "Intelligent Granite Towels",
+    "price": "463.75",
+    "stock": 785,
+    "photo": "https://loremflickr.com/2232/1639?lock=3247906816718684",
+    "category": "computadoras"
+  },
+  {
+    "_id": "aec5dea0f9578fa3bb8ddabf",
+    "title": "Small Concrete Shoes",
+    "price": "440.11",
+    "stock": 748,
+    "photo": "https://picsum.photos/seed/8E2Nk/63/557",
+    "category": "ninguna"
+  },
+  {
+    "_id": "d7f0b2dfcc0e6f8c48bf2fad",
+    "title": "Generic Rubber Shoes",
+    "price": "28.40",
+    "stock": 484,
+    "photo": "https://loremflickr.com/2938/2717?lock=4913900326338806",
+    "category": "celulares"
+  },
+  {
+    "_id": "d36e5edbaff320be763dc6ea",
+    "title": "Handcrafted Ceramic Keyboard",
+    "price": "60.60",
+    "stock": 801,
+    "photo": "https://picsum.photos/seed/bOmtRx/2337/3142",
+    "category": "ninguna"
+  },
+  {
+    "_id": "7649e27a4bb4bdfa58ba34bc",
+    "title": "Handcrafted Bamboo Bacon",
+    "price": "426.15",
+    "stock": 9,
+    "photo": "https://picsum.photos/seed/ZrWtk2PzMi/3192/1534",
+    "category": "computadoras"
+  },
+  {
+    "_id": "4bcbfaf1ee0d1b905dbcfbbd",
+    "title": "Handmade Ceramic Hat",
+    "price": "350.35",
+    "stock": 856,
+    "photo": "https://picsum.photos/seed/Ss2J0Qh/1828/2066",
+    "category": "celulares"
+  },
+  {
+    "_id": "ebf1ff5e60fcdba597ecebe3",
+    "title": "Handmade Bronze Soap",
+    "price": "310.85",
+    "stock": 46,
+    "photo": "https://loremflickr.com/149/1190?lock=5924806580257966",
+    "category": "computadoras"
+  },
+  {
+    "_id": "fad9472d8ebcb5c1527c34d3",
+    "title": "Tasty Bamboo Shirt",
+    "price": "198.39",
+    "stock": 192,
+    "photo": "https://loremflickr.com/1231/1916?lock=6125443289664253",
+    "category": "ninguna"
+  },
+  {
+    "_id": "fd16ac0bf87fc63bfe3efe33",
+    "title": "Frozen Ceramic Table",
+    "price": "444.95",
+    "stock": 245,
+    "photo": "https://picsum.photos/seed/0MtVYXj8aV/2346/315",
+    "category": "computadoras"
+  },
+  {
+    "_id": "77e6681cbea8ec21eb2fa02c",
+    "title": "Ergonomic Cotton Table",
+    "price": "166.15",
+    "stock": 274,
+    "photo": "https://loremflickr.com/1460/3590?lock=1401474558939644",
+    "category": "celulares"
+  },
+  {
+    "_id": "2834c4aafe70c4992a64b6f0",
+    "title": "Rustic Marble Tuna",
+    "price": "255.79",
+    "stock": 319,
+    "photo": "https://picsum.photos/seed/98fP49emBO/2046/1335",
+    "category": "ninguna"
+  },
+  {
+    "_id": "7faea7aedc6ffebac23acc45",
+    "title": "Awesome Wooden Tuna",
+    "price": "249.35",
+    "stock": 459,
+    "photo": "https://picsum.photos/seed/ndhQk0/112/1076",
+    "category": "celulares"
+  },
+  {
+    "_id": "058bbea819dfbd1a8e264af1",
+    "title": "Oriental Gold Chicken",
+    "price": "299.79",
+    "stock": 104,
+    "photo": "https://picsum.photos/seed/BiqsRUZQJ5/2437/1659",
+    "category": "celulares"
+  },
+  {
+    "_id": "ec84ff05b114cf5caa1b1add",
+    "title": "Awesome Plastic Salad",
+    "price": "161.30",
+    "stock": 91,
+    "photo": "https://loremflickr.com/1944/1239?lock=3251107962297894",
+    "category": "celulares"
+  },
+  {
+    "_id": "29c8bbd5f7ff94cb2cc13ccc",
+    "title": "Unbranded Ceramic Table",
+    "price": "295.49",
+    "stock": 927,
+    "photo": "https://picsum.photos/seed/EFUXKlCr/830/1786",
+    "category": "celulares"
+  },
+  {
+    "_id": "f5cefa4acde64e84c54c2fab",
+    "title": "Rustic Aluminum Sausages",
+    "price": "381.09",
+    "stock": 199,
+    "photo": "https://loremflickr.com/896/3558?lock=3034202928458021",
+    "category": "accesorios"
+  },
+  {
+    "_id": "b4f72dc829e9deafafd325aa",
+    "title": "Elegant Concrete Table",
+    "price": "194.10",
+    "stock": 707,
+    "photo": "https://picsum.photos/seed/MDsi0w/2758/3089",
+    "category": "celulares"
+  },
+  {
+    "_id": "704b73ad3e5af37e53dcb636",
+    "title": "Gorgeous Silk Bike",
+    "price": "246.05",
+    "stock": 189,
+    "photo": "https://loremflickr.com/1370/2742?lock=1914008894717909",
+    "category": "celulares"
+  },
+  {
+    "_id": "76c57fdcbb4a19e816cddecd",
+    "title": "Fantastic Marble Sausages",
+    "price": "380.29",
+    "stock": 267,
+    "photo": "https://picsum.photos/seed/PMv9H8Ch/3822/3761",
+    "category": "computadoras"
+  },
+  {
+    "_id": "a0cd9b4b4e593cae582a197c",
+    "title": "Tasty Silk Cheese",
+    "price": "462.29",
+    "stock": 321,
+    "photo": "https://loremflickr.com/713/1338?lock=6806862331474063",
+    "category": "ninguna"
+  },
+  {
+    "_id": "f559ddacccd92ecb6bdaabe3",
+    "title": "Rustic Marble Shirt",
+    "price": "491.35",
+    "stock": 435,
+    "photo": "https://picsum.photos/seed/w2ajoHKY/3276/96",
+    "category": "computadoras"
+  },
+  {
+    "_id": "78cc777a7cc7a6479acfa749",
+    "title": "Elegant Plastic Gloves",
+    "price": "17.39",
+    "stock": 690,
+    "photo": "https://loremflickr.com/609/1911?lock=7854931181332047",
+    "category": "ninguna"
+  },
+  {
+    "_id": "d89fbdebd8eeebe943edd21a",
+    "title": "Licensed Concrete Shoes",
+    "price": "275.10",
+    "stock": 856,
+    "photo": "https://picsum.photos/seed/WwRrZUELe/1601/200",
+    "category": "ninguna"
+  },
+  {
+    "_id": "7d30cc1a28df8ebfd3e780f1",
+    "title": "Practical Wooden Shirt",
+    "price": "131.40",
+    "stock": 91,
+    "photo": "https://picsum.photos/seed/wfIv1E9jy6/499/3218",
+    "category": "ninguna"
+  },
+  {
+    "_id": "bcb82cdab8edbbae0e7349ab",
+    "title": "Awesome Concrete Fish",
+    "price": "117.19",
+    "stock": 572,
+    "photo": "https://picsum.photos/seed/EP5JUtKr5/661/2826",
+    "category": "ninguna"
+  },
+  {
+    "_id": "d1b16af03cccbbce50f0ddf2",
+    "title": "Fantastic Marble Shirt",
+    "price": "286.15",
+    "stock": 11,
+    "photo": "https://loremflickr.com/3199/3418?lock=7532660032555890",
+    "category": "celulares"
+  },
+  {
+    "_id": "0b9f6514db83f2e2d6e12b6e",
+    "title": "Frozen Bamboo Shirt",
+    "price": "461.10",
+    "stock": 741,
+    "photo": "https://picsum.photos/seed/1rvyqrpHsd/1607/3805",
+    "category": "celulares"
+  },
+  {
+    "_id": "6e590d7abbc4a227fee85edf",
+    "title": "Soft Granite Shirt",
+    "price": "160.45",
+    "stock": 563,
+    "photo": "https://loremflickr.com/2399/2504?lock=1045244547624087",
+    "category": "ninguna"
+  },
+  {
+    "_id": "add206d4931656b8bef7a15d",
+    "title": "Handcrafted Bronze Car",
+    "price": "303.39",
+    "stock": 982,
+    "photo": "https://picsum.photos/seed/MqI9vOaboR/3051/2739",
+    "category": "accesorios"
+  },
+  {
+    "_id": "f82d61d53dfa0cb0731fd953",
+    "title": "Intelligent Aluminum Bacon",
+    "price": "200.49",
+    "stock": 859,
+    "photo": "https://loremflickr.com/1408/671?lock=6796869936914440",
+    "category": "accesorios"
+  },
+  {
+    "_id": "baeba340fef7a92c9ce82bd1",
+    "title": "Incredible Wooden Soap",
+    "price": "273.59",
+    "stock": 508,
+    "photo": "https://picsum.photos/seed/2eHO4u50f/948/2770",
+    "category": "computadoras"
+  },
+  {
+    "_id": "98eff5c4dcadcf4e0d77bbdb",
+    "title": "Tasty Concrete Sausages",
+    "price": "160.09",
+    "stock": 120,
+    "photo": "https://loremflickr.com/2685/680?lock=3958992913918245",
+    "category": "computadoras"
+  },
+  {
+    "_id": "de5cb54cdccad4accc55ee59",
+    "title": "Refined Cotton Chips",
+    "price": "482.37",
+    "stock": 800,
+    "photo": "https://loremflickr.com/2751/465?lock=8839013421587445",
+    "category": "ninguna"
+  },
+  {
+    "_id": "f5c49dcd9ae5e85a2adca323",
+    "title": "Generic Wooden Salad",
+    "price": "20.64",
+    "stock": 394,
+    "photo": "https://picsum.photos/seed/P3pypKy2dF/1188/84",
+    "category": "ninguna"
+  },
+  {
+    "_id": "a6300e309cfee016cdff0c4e",
+    "title": "Gorgeous Aluminum Car",
+    "price": "146.00",
+    "stock": 670,
+    "photo": "https://picsum.photos/seed/6qMDs/666/1346",
+    "category": "accesorios"
+  },
+  {
+    "_id": "cf6ba9ec4ffab8d6c81e4cb8",
+    "title": "Licensed Plastic Gloves",
+    "price": "29.79",
+    "stock": 804,
+    "photo": "https://picsum.photos/seed/TgPDGDY/2948/3176",
+    "category": "computadoras"
+  },
+  {
+    "_id": "307a39a3445184faf1baf712",
+    "title": "Refined Steel Mouse",
+    "price": "80.65",
+    "stock": 425,
+    "photo": "https://picsum.photos/seed/SWDHqERl/790/663",
+    "category": "ninguna"
+  },
+  {
+    "_id": "babb7a1babfebecc6e23fba5",
+    "title": "Modern Concrete Bacon",
+    "price": "188.55",
+    "stock": 934,
+    "photo": "https://picsum.photos/seed/34KBX2zw9/1555/3431",
+    "category": "ninguna"
+  },
+  {
+    "_id": "18aa3b2d19dc3bbeb59bd8fa",
+    "title": "Licensed Steel Salad",
+    "price": "363.60",
+    "stock": 581,
+    "photo": "https://picsum.photos/seed/2VVOXrgJU/3929/3084",
+    "category": "celulares"
+  },
+  {
+    "_id": "fcbec8d7e6221d5a4dc5bbac",
+    "title": "Licensed Ceramic Tuna",
+    "price": "163.09",
+    "stock": 903,
+    "photo": "https://picsum.photos/seed/SphOx/206/262",
+    "category": "computadoras"
+  },
+  {
+    "_id": "bbeccbe57cd707ed6c1b6bee",
+    "title": "Elegant Ceramic Shirt",
+    "price": "213.39",
+    "stock": 591,
+    "photo": "https://loremflickr.com/3720/3201?lock=2904155190285395",
+    "category": "ninguna"
+  },
+  {
+    "_id": "f4e94a43afd87a76e7ab72fe",
+    "title": "Fresh Marble Ball",
+    "price": "465.95",
+    "stock": 821,
+    "photo": "https://picsum.photos/seed/4sirSx6Xh/2455/731",
+    "category": "computadoras"
+  },
+  {
+    "_id": "ad5dd2df09e4be2bdcb35aea",
+    "title": "Luxurious Bamboo Towels",
+    "price": "234.19",
+    "stock": 958,
+    "photo": "https://picsum.photos/seed/1dzKU/1205/3696",
+    "category": "accesorios"
+  },
+  {
+    "_id": "239228b45e4f9ba0e5517ddd",
+    "title": "Practical Metal Tuna",
+    "price": "280.90",
+    "stock": 21,
+    "photo": "https://picsum.photos/seed/UlcEbt0K/3175/181",
+    "category": "ninguna"
+  },
+  {
+    "_id": "7c8bf5a3dcddbd1c79e530de",
+    "title": "Awesome Cotton Sausages",
+    "price": "248.65",
+    "stock": 804,
+    "photo": "https://picsum.photos/seed/uc7z8/3617/3033",
+    "category": "accesorios"
+  },
+  {
+    "_id": "2d4ad0fc0d21e2ffdb739b7a",
+    "title": "Fresh Bronze Pants",
+    "price": "454.60",
+    "stock": 974,
+    "photo": "https://loremflickr.com/1154/420?lock=8882237614152434",
+    "category": "celulares"
+  },
+  {
+    "_id": "fdda8ea4beffabafcccfedd9",
+    "title": "Small Bamboo Gloves",
+    "price": "126.99",
+    "stock": 191,
+    "photo": "https://picsum.photos/seed/Scx9v2A/1618/3364",
+    "category": "accesorios"
+  },
+  {
+    "_id": "5cdbaaa12b44cfaccd1ec02d",
+    "title": "Generic Marble Bike",
+    "price": "65.90",
+    "stock": 472,
+    "photo": "https://picsum.photos/seed/eTeK6vN/3357/904",
+    "category": "computadoras"
+  },
+  {
+    "_id": "b88eb50fa560c4fb0d116dab",
+    "title": "Fantastic Silk Bike",
+    "price": "389.79",
+    "stock": 211,
+    "photo": "https://loremflickr.com/2427/3027?lock=2587037732597263",
+    "category": "computadoras"
+  },
+  {
+    "_id": "d3fdb516e3a2beb1ec1ec6a3",
+    "title": "Frozen Aluminum Table",
+    "price": "415.79",
+    "stock": 440,
+    "photo": "https://loremflickr.com/3089/1796?lock=7627699045994936",
+    "category": "celulares"
+  },
+  {
+    "_id": "be1e3eccc1c7bd772b54fa40",
+    "title": "Licensed Bamboo Computer",
+    "price": "365.39",
+    "stock": 594,
+    "photo": "https://loremflickr.com/1498/3839?lock=6338075531857567",
+    "category": "celulares"
+  },
+  {
+    "_id": "52d97088463dd89efefab572",
+    "title": "Awesome Rubber Bike",
+    "price": "340.09",
+    "stock": 31,
+    "photo": "https://picsum.photos/seed/dvrcV13yN/3404/854",
+    "category": "ninguna"
+  },
+  {
+    "_id": "b6e60e5fee247401bef45329",
+    "title": "Sleek Silk Mouse",
+    "price": "319.79",
+    "stock": 952,
+    "photo": "https://picsum.photos/seed/I4iXOEpfQ/2374/1474",
+    "category": "celulares"
+  },
+  {
+    "_id": "e9815c205eddde91ccadfb28",
+    "title": "Fantastic Ceramic Ball",
+    "price": "89.70",
+    "stock": 10,
+    "photo": "https://picsum.photos/seed/OAKN8vw/2591/3898",
+    "category": "computadoras"
+  },
+  {
+    "_id": "46cdf8dbc86ce51435c2835e",
+    "title": "Rustic Bamboo Shirt",
+    "price": "125.60",
+    "stock": 20,
+    "photo": "https://loremflickr.com/2872/590?lock=5127568659425054",
+    "category": "celulares"
+  },
+  {
+    "_id": "ba0a80d22d8a5ee35c64ffba",
+    "title": "Handcrafted Plastic Keyboard",
+    "price": "369.05",
+    "stock": 825,
+    "photo": "https://picsum.photos/seed/xzaz7/1812/262",
+    "category": "computadoras"
+  },
+  {
+    "_id": "a4a9b54ef1c74543ac4ed7da",
+    "title": "Fresh Wooden Pizza",
+    "price": "31.15",
+    "stock": 36,
+    "photo": "https://picsum.photos/seed/9byW1ZgS/899/3339",
+    "category": "accesorios"
+  },
+  {
+    "_id": "3a623c70feda8754ccf8a170",
+    "title": "Unbranded Gold Sausages",
+    "price": "252.84",
+    "stock": 30,
+    "photo": "https://loremflickr.com/3055/1271?lock=8083263177524488",
+    "category": "ninguna"
+  },
+  {
+    "_id": "7ad8ddcd1d3cdf3edb6c84bd",
+    "title": "Refined Rubber Table",
+    "price": "298.98",
+    "stock": 672,
+    "photo": "https://loremflickr.com/3100/424?lock=4908599667788917",
+    "category": "computadoras"
+  },
+  {
+    "_id": "f8ec8af9dbfffb61ebb6faff",
+    "title": "Licensed Gold Tuna",
+    "price": "238.49",
+    "stock": 305,
+    "photo": "https://picsum.photos/seed/MxCiJQ0ZI7/463/3884",
+    "category": "accesorios"
+  },
+  {
+    "_id": "aeda87aafb65fbb2bea9dabb",
+    "title": "Luxurious Ceramic Cheese",
+    "price": "475.59",
+    "stock": 874,
+    "photo": "https://loremflickr.com/984/2040?lock=731564931526336",
+    "category": "celulares"
+  },
+  {
+    "_id": "efb10a5181e4d3a2df5da6ff",
+    "title": "Intelligent Bamboo Cheese",
+    "price": "427.14",
+    "stock": 895,
+    "photo": "https://loremflickr.com/1864/2603?lock=5518565252553935",
+    "category": "celulares"
+  },
+  {
+    "_id": "02fd2a8ada0e6c99bf7eb5fe",
+    "title": "Electronic Concrete Shirt",
+    "price": "316.29",
+    "stock": 848,
+    "photo": "https://picsum.photos/seed/dRbmwh/348/3462",
+    "category": "ninguna"
+  },
+  {
+    "_id": "fbc94ef89aae92f7adabedc8",
+    "title": "Licensed Ceramic Sausages",
+    "price": "197.49",
+    "stock": 769,
+    "photo": "https://loremflickr.com/2594/34?lock=3251159668018000",
+    "category": "accesorios"
+  },
+  {
+    "_id": "e6e3f2c77f7f492ea1eb5c6e",
+    "title": "Fresh Cotton Mouse",
+    "price": "454.73",
+    "stock": 999,
+    "photo": "https://picsum.photos/seed/GoWeASJlI/3041/2153",
+    "category": "accesorios"
+  },
+  {
+    "_id": "5ea551f3b44fcee13f42ff91",
+    "title": "Oriental Concrete Ball",
+    "price": "29.49",
+    "stock": 102,
+    "photo": "https://loremflickr.com/632/3488?lock=190877562617257",
+    "category": "ninguna"
+  },
+  {
+    "_id": "a38c6ca2deebd6011fef9f3c",
+    "title": "Intelligent Granite Car",
+    "price": "421.09",
+    "stock": 995,
+    "photo": "https://picsum.photos/seed/3VF3fBcDK/229/1012",
+    "category": "accesorios"
+  },
+  {
+    "_id": "bc71ddfdf30df9ce2a27c9c8",
+    "title": "Tasty Aluminum Computer",
+    "price": "77.39",
+    "stock": 396,
+    "photo": "https://picsum.photos/seed/lORJ2yCv/1386/1773",
+    "category": "accesorios"
+  },
+  {
+    "_id": "bbffeb9f6699f0fae7cc5bbb",
+    "title": "Unbranded Concrete Sausages",
+    "price": "277.09",
+    "stock": 691,
+    "photo": "https://picsum.photos/seed/siInxbIo/3966/2066",
+    "category": "computadoras"
+  },
+  {
+    "_id": "33e65dbfa6ebfb2bc7dca6a4",
+    "title": "Handcrafted Aluminum Chips",
+    "price": "88.49",
+    "stock": 57,
+    "photo": "https://picsum.photos/seed/b1PU4DB42/563/2504",
+    "category": "computadoras"
+  },
+  {
+    "_id": "027e3a8fdbdbfe39ddef2cd6",
+    "title": "Recycled Concrete Hat",
+    "price": "59.49",
+    "stock": 565,
+    "photo": "https://picsum.photos/seed/HzoqWhbO/163/930",
+    "category": "accesorios"
+  },
+  {
+    "_id": "089aed34fdbcaaadebc0c0c5",
+    "title": "Bespoke Wooden Pants",
+    "price": "220.39",
+    "stock": 237,
+    "photo": "https://loremflickr.com/1104/3041?lock=3247782672627684",
+    "category": "accesorios"
+  },
+  {
+    "_id": "caefa1eba3529cd65dd130bb",
+    "title": "Incredible Gold Sausages",
+    "price": "108.99",
+    "stock": 413,
+    "photo": "https://loremflickr.com/237/333?lock=2212961469716662",
+    "category": "computadoras"
+  },
+  {
+    "_id": "cad85f12e7f6652376dcfff2",
+    "title": "Generic Rubber Gloves",
+    "price": "457.19",
+    "stock": 75,
+    "photo": "https://picsum.photos/seed/JXvYpHNFk/239/248",
+    "category": "celulares"
+  },
+  {
+    "_id": "ec0ffb8be4ce58db8a0f7eac",
+    "title": "Recycled Granite Shoes",
+    "price": "31.29",
+    "stock": 384,
+    "photo": "https://picsum.photos/seed/L2It4/30/3892",
+    "category": "accesorios"
+  },
+  {
+    "_id": "0cbf6a8c49beae05461562cd",
+    "title": "Fresh Plastic Keyboard",
+    "price": "157.99",
+    "stock": 613,
+    "photo": "https://loremflickr.com/2869/3792?lock=7212506176367419",
+    "category": "ninguna"
+  },
+  {
+    "_id": "ba2f468e7a8eb5f5cfd454cc",
+    "title": "Sleek Steel Bike",
+    "price": "18.25",
+    "stock": 68,
+    "photo": "https://loremflickr.com/915/1528?lock=1130131443661345",
+    "category": "celulares"
+  },
+  {
+    "_id": "8dec2f1f7cf0cffcb7efae5e",
+    "title": "Recycled Metal Fish",
+    "price": "99.65",
+    "stock": 109,
+    "photo": "https://loremflickr.com/1154/834?lock=7382899141937087",
+    "category": "ninguna"
+  },
+  {
+    "_id": "7ea87e83bbadf6b6372eae6e",
+    "title": "Sleek Steel Bike",
+    "price": "434.59",
+    "stock": 191,
+    "photo": "https://loremflickr.com/1663/3116?lock=4239474682493290",
+    "category": "celulares"
+  },
+  {
+    "_id": "6aa271b0e7cef9ba1c4f9071",
+    "title": "Practical Wooden Soap",
+    "price": "410.29",
+    "stock": 332,
+    "photo": "https://loremflickr.com/3448/2678?lock=6281125465554162",
+    "category": "ninguna"
+  },
+  {
+    "_id": "7c10c2eecbe0b68ca2eea25b",
+    "title": "Electronic Silk Chair",
+    "price": "481.63",
+    "stock": 834,
+    "photo": "https://loremflickr.com/3694/1052?lock=6002123242173541",
+    "category": "accesorios"
+  },
+  {
+    "_id": "90eef3e8a406356bbdd0d615",
+    "title": "Electronic Steel Mouse",
+    "price": "391.99",
+    "stock": 353,
+    "photo": "https://loremflickr.com/122/507?lock=817430376584823",
+    "category": "accesorios"
+  },
+  {
+    "_id": "c36373fc3f842f44220caef2",
+    "title": "Tasty Ceramic Keyboard",
+    "price": "125.19",
+    "stock": 959,
+    "photo": "https://loremflickr.com/175/3457?lock=1375725970642304",
+    "category": "computadoras"
+  },
+  {
+    "_id": "c479c9217a82bc28c85b4c81",
+    "title": "Handmade Granite Chair",
+    "price": "280.35",
+    "stock": 654,
+    "photo": "https://loremflickr.com/2569/673?lock=5193958870024443",
+    "category": "accesorios"
+  },
+  {
+    "_id": "f835edca8f7fd1dcd14fe5ee",
+    "title": "Elegant Marble Chips",
+    "price": "83.85",
+    "stock": 206,
+    "photo": "https://loremflickr.com/1018/1398?lock=1464697160561698",
+    "category": "accesorios"
+  },
+  {
+    "_id": "df0d46c46c1adaadd93a75de",
+    "title": "Electronic Metal Table",
+    "price": "74.05",
+    "stock": 913,
+    "photo": "https://loremflickr.com/2252/3220?lock=1970908920910863",
+    "category": "computadoras"
   }
 ]
