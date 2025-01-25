@@ -7,9 +7,6 @@ const readOneProduct = async (req, res, next) => {
     if (one) {
       return res.status(200).json({ response: one });
     }
-    //es lo mismo responder DIRECTO con un error
-    //return res.status(404).json({ response: "Not found!" });
-    //que con el constructor de errores y manejador de errores
     const error = new Error("Not found");
     error.statusCode = 404;
     throw error;

@@ -45,14 +45,9 @@ class UsersManager {
         avatar: faker.image.avatar(),
         role: faker.helpers.arrayElement(["user", "admin", "premium"]),
       };
-      //una vez construido el usuario
-      //se lee el archivo
       const dataOfFile = await this.readFile();
-      //se pushea el nuevo usuario
       dataOfFile.push(user);
-      //se sobre escribe el archivo con la nueva data
       await this.writeFile(dataOfFile);
-      //retorno el nuevo usuario al cliente
       return user;
     } catch (error) {
       throw error;
